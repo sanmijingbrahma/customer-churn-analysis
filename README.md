@@ -6,7 +6,7 @@ Provide Business Recommendation for Improving customer retention
 
 ## Project Workflow
 - [x] Data Audit
-- [ ] Data Cleaning
+- [x] Data Cleaning
 - [ ]  Exploratory Analysis 
 - [ ] Visual Analysis 
 - [ ] Customer Segmentation
